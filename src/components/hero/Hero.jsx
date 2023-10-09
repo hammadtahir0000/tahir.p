@@ -1,14 +1,14 @@
 import React, { useState } from "react";
 import Modal from "react-modal";
-import heroImg from "../../assets/img/my/abdullah.jpg";
-import heroImgMobile from "../../assets/img/my/abdullahsmall.jpg";
+import heroImg from "../../assets/img/my/hammad.jpg";
+import heroImgMobile from "../../assets/img/my/hammad.jpg";
 import cancelImg from "../../assets/img/cancel.svg";
 import Index from "../../components/about/index";
 
 const heroContent = {
   heroImage: heroImg,
   heroMobileImage: heroImgMobile,
-  heroTitleName: "Muhammad Abdullah",
+  heroTitleName: "Muhammad Hammad",
   heroDesignation: "Web Developer",
   heroDescriptions: `As a web developer, I possess a strong technical skill set, including proficiency in multiple programming languages, which allows me to build robust and scalable web applications that meet the needs of clients and end-users.`,
   heroBtn: "more about me",

@@ -4,14 +4,14 @@ const educationContent = [
   {
     year: "2018",
     degree: "Matric",
-    institute: "Anglo Arabic",
-    details: `I did Matric from anglo arabic higher secondary and got 1st division`,
+    institute: "HCCS EDUCATIONAL SYSTEM",
+    details: `I did Matric from HCCS EDUCATIONAL SYSTEM and got 1st division`,
   },
   {
     year: "2020",
     degree: "Intermediate",
-    institute: "Anglo Arabic",
-    details: `Completed Intermediate Studies from anglo arabic`,
+    institute: "HCCS EDUCATIONAL SYSTEM",
+    details: `Completed Intermediate Studies from HCCS EDUCATIONAL SYSTEM`,
   },
   {
     year: "2023",
